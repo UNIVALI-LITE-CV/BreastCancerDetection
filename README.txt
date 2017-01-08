@@ -1,12 +1,10 @@
-﻿CONTATO: junkes@edu.univali.br
-MAIS INFORMAÇÕES: https://goo.gl/SfKbEf
+Contact: 
+	andrelms@univali.br
+	junkes@edu.univali.br
+
+More Information: https://goo.gl/yGlNWp (Pt-Br)
 
 ------------------------------------------------------------
-
-ALGORITMO:
-
-Código testado utilizando MATLAB R2013a
-
 Etapa 1 (Pré-processamento):
 Está dentro do arquivo "main_01.m"
 Realiza a redução do tamanho das imagens, segmentação da região do seio e segmentação do músculo peitoral.
